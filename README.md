@@ -1,7 +1,7 @@
 # TownSquare
-DEPLOYED WEB APP: https://david-antonio-t.github.io/townsquare-web/
-FLUTTER CODE REPOSITORY: https://github.com/David-Antonio-T/Townsquare-Flutter-App
-TownSquare is a responsive web and mobile app designed to make life easier and more enjoyable for parents and kids. It connects families with local activities, services, and healthy living options.
+- DEPLOYED WEB APP: https://david-antonio-t.github.io/townsquare-web/
+- FLUTTER CODE REPOSITORY: https://github.com/David-Antonio-T/Townsquare-Flutter-App
+- TownSquare is a responsive web and mobile app designed to make life easier and more enjoyable for parents and kids. It connects families with local activities, services, and healthy living options.
 
 ## Features
 - **Sports & Activities**: Join football, MMA, running clubs, yoga, pilates, and kids' classes.
