@@ -13,7 +13,8 @@ TownSquare is a responsive web and mobile app designed to make life easier and m
 
 ## Images from the app
 
-![image](https://github.com/user-attachments/assets/e771cc59-81fa-4353-8a29-489659b1d068)
+![image](https://github.com/user-attachments/assets/8da29315-3f97-418e-add7-e9046984830c)
+
 
 ## Note
 This project was a frontend practice as a technical test and does not include a backend.
